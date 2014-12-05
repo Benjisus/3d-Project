@@ -1,0 +1,10 @@
+Camera start position:		0,0,25
+Left wall: 					x=25
+Right wall:					x=-25
+Far wall:					z=50
+Near wall:					z=0
+Floor:						y=0
+Ceiling:					y=50
+
+Ball radius:				2
+Gravity:					-9
